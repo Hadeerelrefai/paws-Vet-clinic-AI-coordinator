@@ -43,7 +43,7 @@ The workflow is a prototype and requires further testing to improve classificati
 3. **FAQ:** Suitable administrative questions can receive an automatic reply based on the clinic information configured in the workflow.
 4. **Urgent:** The client receives an acknowledgement, and the designated veterinary contact receives an alert containing the message context.
 5. **Can-wait or unclear messages:** logs the issue for daytime review in the google sheet and reassures the client. These cases need additional testing to ensure they are consistently routed for human review.
-6. **every Urgent and Can-wait or unclear messages:** is logged immediately to a the google sheet with comprehensive metadata.
+6. **Every Urgent and Can-wait or unclear messages:** is logged immediately to a the google sheet with comprehensive metadata.
 
 ## Technology
 
