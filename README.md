@@ -70,7 +70,7 @@ WhatsApp integration is not implemented in this version.
 5. Observe the client response and, for an urgent message, check whether the configured veterinary contact receives an alert.
 6. **Open the Live Sheets Log:** Access publicly visible Google Sheets Live Audit Log to watch incoming data populate in real-time.
 
-**Make.com scenario:** View the shared scenario
+**Make.com scenario:** View the shared scenario [View the shared scenario](https://us2.make.com/public/shared-scenario/biPfLEgRbxD/paws-clinic-agent)
 
 ## Limitations
 
@@ -91,4 +91,6 @@ WhatsApp integration is not implemented in this version.
 
 ## Demo Video
 
-Watch the triage demo video
+Watch the triage demo video 
+[Watch the triage demo video](https://vimeo.com/1232462055?share=copy&fl=sv&fe=ci)
+
